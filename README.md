@@ -26,7 +26,7 @@ A mobile-friendly project timeline tool that runs on **your own Google account**
 
 ### Option A: try the shared demo (about 2 minutes)
 
-1. Open the template spreadsheet: **[[make a copy](https://docs.google.com/spreadsheets/d/1liTi3iFLfwtTE6b3AdzdOxn1Sw7JETcm9Ns8h1rb1IM/copy)**.
+1. Open the template spreadsheet: **[make a copy](https://docs.google.com/spreadsheets/d/1liTi3iFLfwtTE6b3AdzdOxn1Sw7JETcm9Ns8h1rb1IM/copy)**.
 2. Open the demo web app: **[demo](https://script.google.com/macros/s/AKfycbynAiJZMFzy7tGOO-H7UVKkicPCKTSQ__lvE7bd8110BvhzY9KWG2bI-insThEqaw4BsA/exec)**. The first time, Google asks you to authorize it. "Google hasn't verified this app" is expected; click **Advanced → Go to … (unsafe) → Allow**.
 3. In the tool, tap **+Add**, paste the URL of your copy, and open the "Clinical Trial Prep Example" or "Demo Project" sheet.
 
